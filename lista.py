@@ -17,4 +17,4 @@ numeros = list(range(1, 101))
 pares_div = [num for numero in numeros if numero % 2 == 0 and numero % 4 == 0] 
 
 # Imprima a lista gerada #
-print(pares_div4)
+print(pares_div)
